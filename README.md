@@ -10,12 +10,12 @@ This is a web service that processes receipt data and calculates reward points b
 
 ## Running with Docker
 **Build the Docker Image:**
-'docker build -t receipt-processor'
+`docker build -t receipt-processor`
 
 **Run the Docker Container:**
-'docker run -p 8080:8080 receipt-processor'
+`docker run -p 8080:8080 receipt-processor`
 
 **Access the Service**
-The API will be available at 'http://localhost:8080'
+The API will be available at `http://localhost:8080`
 
 
